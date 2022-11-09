@@ -4,13 +4,14 @@
 </div>
 
 <br>
-<h1 >Caracterización grupos de valor</h1>
+<h1 >Analisis de datos Gestor Normativo</h1>
 
 <h2>Participantes</h2>
 <ul>
- <li type="circle">Monica Martínez, Temático,  mmartinez@funcionpublica.gov.co</li>
+ <li type="circle">Luz Stella Rojas, lrojas@funcionpublica.gov.co</li>
  <li type="circle">Maritza Ibarra Duarte, Analista de datos,  mibarra@funcionpublica.gov.co</li>
  <li type="circle">Miguel Sebastian Rincon Ortega, Analista de datos, mrincon@funcionpublica.gov.co</li>
+ <li type="circle">Karol Camargo Vargas, Analista de datos, kcamargo@funcionpublica.gov.co</li>
 </ul>
 
 <h2>Tipo de analitica</h2>
