@@ -62,9 +62,7 @@ Identificar las características, intereses y necesidades de los usuarios de los
 <h2>Riesgos y contingencias</h2>
    <p>  
     <ul>
-<li type="circle">Información Incompleta. </li>
-<li type="circle">Demoras en la entrega de la información.</li>
-<li type="circle">Información con estructuras y campos diferentes en cada canal de atención.</li>
+<li type="circle">Información Incompleta, falta de información de los usuarios que consultan.</li>
 <li type="circle">Errores de diligenciamiento.</li>
 <li type="circle">Campos no paremetrizados en los canales.</li>
     <ul>  
@@ -79,18 +77,14 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
  <div>
  <h2>Productos/Entregables</h2>
  <ul>
- <li type="circle">Base de datos consolidada y estructurada con el total de interacciones de los grupos de valor del año 2021 y de enero a julio de 2022.</li>
- <li type="circle">Gráficos descriptivos que permiten caracterizar las interacciones y los grupos de valor de la entidad.</li>
- <li type="circle">Algoritmo para consolidación y homologación de las diferentes bases de datos y plantilla con gráficos para futuras caracterizaciones.</li>
- <ul>
+ <li type="circle">Análisis de comportamiento de usuarios del gestor normativo.</li>
+  <ul>
  </div>
    
  <h2>Metodología y Alcance</h2>
-   <p><b>Metodología:</b>  La metodología comprende seis fases, tal como se muestra en la imagen. Para este proyecto se aplicaron la fase uno que comprende el entendimiento del negocio, donde se plantearon los objetivos y requisitos que serán el insumo para el planteamiento del problema y la fase dos que comprende la comprensión de los datos, donde se realizó un análisis exploratorio de los mismos, posteriormente se procedió a la entrega de resultados e informe final.</li><br>
-   
-<p align="center"> <img src="2022-08-23_Crisp_dm.png" align="center" alt="Crisp - DM Fuente: https://www.iic.uam.es/innovacion/metodologia-crisp-dm-ciencia-de-datos/" width="300" height="300" /> </p>
-   
-<b>Alcance:</b>  Para este ejercicio se aplicarán técnicas de mineria de datos a la información de las bases de datos de los reportes de: Orfeo, crm, cursos eva, chat del año 2021 y de enero a julio de 2022.</p>
+   <p><b>Metodología:</b> Para el desarrollo de este ejercicio se utilizaran las metricas que genera la herramiento de google analytics, las cuales nos permiten conocer los usuarios, explorar su comportamiento, medir sus interacciones, entro otros aspectos.</li><br> 
+ 
+<b>Alcance:</b>  Para este ejercicio se realizará análisis de los usuarios que visitaron el gestor normativo desde enero de 2022 a 31 de octubre de 2022.</p>
 
 <h2>Recursos tecnológicos del proyecto</h2>
 <table>
@@ -103,8 +97,8 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
     <th>Archivos generados</th>
   </tr>
   <tr>
-    <td>Python</td>
-    <td>Lenguaje de programación open source y con respaldo de una gran comunidad que permitirá emprender acciones de transformación y extracción de información útil para la toma de decisiones, bajo el ciclo de vida de ejercicios no supervisados se dictaminan las tareas principalmente de preparación de datos, aprendizaje, evaluación y perfilamiento de los datos.</td>
+    <td>Google Analytics</td>
+    <td>Heramienta de google, cuyo objetivo es medir el impacto de un sitio web y el comportamiento de sus usuarios. con el fin de entender el rendimiento del sitio y cómo optimizarlo.</td>
     <td>Notebook Jupyter (algoritmo): se emprende y explica el proceso para análisis de datos en el proyecto puede establecerse en formato PDF, HTML u otros para su consulta</td>
   </tr>
 </table>
