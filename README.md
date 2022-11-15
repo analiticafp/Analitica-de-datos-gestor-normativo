@@ -106,16 +106,32 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
  
  <h2>Presentación y análisis de resultados</h2>
    
-<h3>Preparación de datos</h3>
- 
- </p>Con la base de datos consolidada se procede a homologar temáticas, departamentos y pertenencia étnica.</li><br>
+<h3>Visitas</h3>
+
+</p>Entre el periodo de enero a octubre de 2022, se evidencia un total de 15.182.491, lo que equivale a 1.518.149 visitas en promedio mensual, tal y como se observa en la gráfica </li><br>
 
 <div>   
-<img src="https://github.com/analiticafp/Caracterizaci-n-grupos-de-valor-DAPF/blob/main/Temas.png" align="center" 
-alt="Función Pública"></li><br>
+<img src=https://github.com/analiticafp/Analitica-de-datos-gestor-normativo/blob/main/Imagenes/2022-15-11_Visitas.png></li><br>
+
+<h3>Páginas visitadas</h3>
+
+</p>En cuanto a las páginas visitadas en total se evidencian 24.007.813, lo que equivale a que los usuarios en sus vistas en promedio visitan 2 páginas del sitio en cada visita, lo anterior coincide con el objetivo del gestor normativo, donde los usuarios ingresan y consultan una norma específica.</li><br>
+
+</p>Así mismo para ese periodo de tiempo se evidencia que las páginas más consultadas corresponden a manual de estructura del Estado, de acuerdo con la siguiente gráfica.</li><br>
 
 <div>   
-<img src="https://github.com/analiticafp/Caracterizaci-n-grupos-de-valor-DAPF/blob/main/Grupos%20de%20valor.jpg" align="center" alt="Función Pública"></li><br>
+<img src=https://github.com/analiticafp/Analitica-de-datos-gestor-normativo/blob/main/Imagenes/2022-15-11_Visitas.png></li><br>
+
+
+<h3>Usuarios</h3>
+
+<h3>Tiempo de permanencia en el sitio</h3>
+
+<h3>Porcentaje de Rebote</h3>
+
+<h3>usuarios Nuevos</h3>
+
+<h3>Georreferenciación</h3>
 
    
 <h2>Conclusiones</h2>
