@@ -42,7 +42,7 @@ Desde los objetivos misionales se identifican (3) grupos de valor asociados al d
   
 <div>
 <h2>Objetivos</h2>
- <p><b>Obejtivos del Negocio</b><br>
+<p><b>Obejtivos del Negocio</b><br>
 Identificar las características, intereses y necesidades de los usuarios de los servicios y productos del Departamento Administrativo de la Función Pública para actualizar el portafolio de bienes y servicios de la entidad y mejorar el diseño de acciones de diálogo en el marco del proceso de rendición de cuentas.<br>
 
 <b>Objetivo de la Mineria de datos:</b><br>
@@ -124,6 +124,41 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
 
 
 <h3>Usuarios</h3>
+
+</p>De acuerdo con los resultados de Google Analytics, estos 15 millones de visitas las han realizado un total de 4.073.065 de usuarios, donde se evidencia que el mayor canal de acceso es la búsqueda en Google, seguido de accesos directos, tal y como se muestra en la siguiente tabla</li><br>
+
+<table>
+   <tr>
+    <th colspan="4">Usuarios</th>
+  </tr>
+  <tr>
+    <th>Canal</th>
+    <th>Participación</th>
+    <th>Usuarios Nuevos</th>
+      </tr>
+  <tr>
+    <td>Búsqueda orgánica</td>
+    <td>91,21%</td>
+    <td>90,4%</td>
+  </tr>
+    <td>Directo</td>
+    <td>7,18%</td>
+    <td>6,79%</td>
+  </tr>
+    <td>Remsión</td>
+    <td>1,51</td>
+    <td>2,67%</td>
+    </tr>
+    <td>Red Social</td>
+    <td>0,10%</td>
+    <td>0,12%</td>
+    </tr>
+    <td><h3>Total</td></h3>
+    <td><h3>79,57%</td></h3>
+    <td><h3>88,65%</td></h3>
+</table>
+
+</p>Así mismo se puede observar que el 79,5% de los usuarios que visitan el gestor normativo son usuarios nuevos (Usuarios que ingresan por primera vez al sitio que corresponden al número de cookies nuevas que encuentra y contabiliza el sistema), mientras que el 88,6% corresponde a usuarios recurrentes</li><br>
 
 <h3>Tiempo de permanencia en el sitio</h3>
 
