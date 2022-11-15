@@ -82,7 +82,7 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
  </div>
    
  <h2>Metodología y Alcance</h2>
-   <p><b>Metodología:</b> Para el desarrollo de este ejercicio se utilizaran las metricas que genera la herramiento de google analytics, las cuales nos permiten conocer los usuarios, explorar su comportamiento, medir sus interacciones, entro otros aspectos.</li><br> 
+   <p><b>Metodología:</b> Para el desarrollo de este ejercicio se utilizaran las metricas que genera la herramienta de google analytics, las cuales nos permiten conocer los usuarios, explorar su comportamiento, medir sus interacciones, entro otros aspectos.</li><br> 
  
 <b>Alcance:</b>  Para este ejercicio se realizará análisis de los usuarios que visitaron el gestor normativo desde enero de 2022 a 31 de octubre de 2022.</p>
 
@@ -99,7 +99,7 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
   <tr>
     <td>Google Analytics</td>
     <td>Heramienta de google, cuyo objetivo es medir el impacto de un sitio web y el comportamiento de sus usuarios. con el fin de entender el rendimiento del sitio y cómo optimizarlo.</td>
-    <td>Notebook Jupyter (algoritmo): se emprende y explica el proceso para análisis de datos en el proyecto puede establecerse en formato PDF, HTML u otros para su consulta</td>
+    <td>Métricas personalizadas de acuerdo con el tipo de análisis a realizar</td>
   </tr>
 </table>
 
