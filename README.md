@@ -107,118 +107,15 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
  <h2>Presentación y análisis de resultados</h2>
    
 <h3>Preparación de datos</h3>
-  <p>Fuentes de datos:
-    
-1.	Acción integral (Base de atenciones DDO nación y territorio)
-2.	Presencial y telefónico - CRM
-3.	Chat (Solicitud de nuevo reporte al grupo de servicio al ciudadano)
-4.	Orfeo (solicitud de nuevo reporte a OTIC)
-5.	Cursos EVA (Nuevo reporte solicitado a OTIC)
-
-<p>Una vez validadas las variables requeridas para la caracterización con las diferentes dependencias responsables, se procede a creación de código en Python para consolidación de todas las bases de datos, donde se tomaron las columnas consideradas relevantes para la caracterización y se estructuro un nuevo archivo con las siguientes variables:</p>
-<table align="center">
-  <tr>
-   <td>CANAL</td>
-    <td>MUNICIPIO</td>
-  </tr> 
-    <tr>
-    <td>DEPENDENCIA</td>
-    <td>TIPO_IDENTIFICACION_USUARIO</td>
-  </tr> 
-       <tr>
-    <td>ID_ATENCION</td>
-    <td>IDENTIFICACION_USUARIO</td>
-  </tr> 
-           <tr>
-    <td>FECHA_ATENCION</td>
-    <td>NOMBRE_USUARIO</td>
-  </tr> 
-           <tr>
-    <td>ASUNTO</td>
-    <td>CORREO_ELECTRONICO</td>
-  </tr> 
-           <tr>
-    <td>TEMA</td>
-    <td>DISCAPACIDAD</td>
-  </tr> 
-           <tr>
-    <td>SUBTEMA</td>
-    <td>ETNICO</td>
-  </tr> 
-           <tr>
-    <td>DESCRIPCION</td>
-    <td>OTRO_GRUPO_INTERES</td>
-  </tr> 
-           <tr>
-    <td>COD_DEPARTAMENTO</td>
-    <td>ENTIDAD_ASOCIADO_CODSIGEP</td>
-  </tr> 
-   <td>DEPARTAMENTO</td>
-    <td>ENTIDAD_ASOCIADO_NOMBRE_SIGEP</td>
-  </tr> 
-    <tr>
-    <td>COD_MUNICIPIO</td>
-   </tr> 
-   </table>
-    
-  
-</p>Con la base de datos consolidada se procede a homologar temáticas, departamentos y pertenencia étnica.</li><br>
+ 
+ </p>Con la base de datos consolidada se procede a homologar temáticas, departamentos y pertenencia étnica.</li><br>
 
 <div>   
 <img src="https://github.com/analiticafp/Caracterizaci-n-grupos-de-valor-DAPF/blob/main/Temas.png" align="center" 
 alt="Función Pública"></li><br>
 
-
-<p>Para la identificación de grupos de valor se crearon condicionales que nos permitieron clasificar e identificar las atenciones por grupo de valor teniendo en cuenta el canal de atención y la tematica.</li><br>
-
 <div>   
 <img src="https://github.com/analiticafp/Caracterizaci-n-grupos-de-valor-DAPF/blob/main/Grupos%20de%20valor.jpg" align="center" alt="Función Pública"></li><br>
-
-<p>Posteriormente, para el grupo de valor de entidades se realizó el cruce con los datos de descripción de las entidades orden, sector, clasificación orgánica y naturaleza jurídica variables requeridas para la caracterización de este grupo:</li><br>
-
-<p>Por otro lado, para los servidores públicos se realizó cruce por número de cédula para las atenciones que incluían este dato con la base de servidores públicos vinculados y así poder tener un nivel de detalle para la caracterización de este grupo de valor encontrando que solo el 10% de los cédulas cruzaron razón por la cual no es viable caracterizar este grupo de ciudadanos porque la base de datos no es representativa:</li><br>
-
-<p>Finalmente se procede a caracterizar la información resultante y se obtienen los siguientes cuadros de salida para la caracterización de usuarios y grupos de valor de la entidad</li><br>
-
-
-<b>Generales</b>
-
-<p> </p>
-
-<p align="center"> <img src="imaganes/2022-08-30_Canales.jpg" align="center" alt="Canales de atención" width="500"/> </p>
-
-<p>La distribución de las interacciones por tipo de canal de atención pone como uno de los principales a los cursos proporcionados por la entidad donde se registraron 411.436 interacciones.</li><br>
-
-<p align="center"> <img src="imaganes/2022-08-30_Mapa.jpg" align="center" alt="Canales de atención" width="500" /> </p>
-
-<p>Las interacciones se concentran en la zona centro y occidente acogiendo las principales ciudades, donde Bogotá se registra como el departamento con mas interacciones.</li><br>
-
-<p>Para desarrollar herramientas y estrategias para la mejora y/o disposición de productos y servicios es necesario expandir y recolectar más información sobre las personas con discapacidad además del tipo de grupo étnico, con el fin de recolectar información útil para una toma de decisiones.</li><br>
-
-<p>Se registra entonces la distribución que se muestra en la siguiente tabla.</li><br>
-
-<p align="center"> <img src="imaganes/2022-08-30_Inclusion.jpg" align="center" alt="Canales de atención" width="500"/> </p>
-
-<p align="center"> <img src="imaganes/2022-08-30_Grupos_valor.jpg" align="center" alt="Canales de atención" width="500"  /> </p>
-
-<p> De acuerdo con la distribución de grupo de valor se evidencia que la mayor participación la tienen los servidores públicos en un 75%, seguido de particulares u otras entidades en un 23%.</p><br>
-
-<b>Atenciones</b>
-
-<p align="center"> <img src="imaganes/2022-08-30_Temas_canales.jpg" align="center" alt="Canales de atención"  /> </p>
-
-<p> En cuanto a las atenciones se evidencia que para los canales escrito, chat, presencial y telefonico la mayor participación es en temas de sigep.</p><br>
-
-<p align="center"> <img src="imaganes/2022-08-30_Temas_canales_2.jpg" align="center" alt="Canales de atención"  /> </p>
-
-<p> En lo que se referiere a los cursos EVA y CRM acción integral estos tienen un comportamiento diferente debido a la especifidad de estos canales donde en el caso de cursos eva se evidencia que el más demandado es el curso de integridad, seguido de MIPG, mientras que para el canal de CRM la principal consulta es la relacionada con el rediseño institucional seguida de MIPG.</p><br>
-
-<b>Entidades</b>
-<p> Se muestra el top de los sectores que más servicios han requerido de la entidad y se evidencia que en mayor representación estan el sector hacienda y trabajo, seguido del interior y justicia.</p><br>
-
-<p align="center"> <img src="imaganes/2022-08-30_Entidades.jpg" align="center" alt="Canales de atención" /> </p>
-
-<p> En cuanto a territorio se evidencia que la mayor atención se presenta en las alcadías que representan el 75% de las atenciones seguidos de las gobernaciones en un 14%.</p><br>
 
    
 <h2>Conclusiones</h2>
