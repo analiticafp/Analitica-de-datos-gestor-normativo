@@ -120,7 +120,7 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
 </p>Así mismo para ese periodo de tiempo se evidencia que las páginas más consultadas corresponden a manual de estructura del Estado, de acuerdo con la siguiente gráfica.</li><br>
 
 <div>   
-<img src=https://github.com/analiticafp/Analitica-de-datos-gestor-normativo/blob/main/Imagenes/2022-15-11_Visitas.png></li><br>
+<img src=https://github.com/analiticafp/Analitica-de-datos-gestor-normativo/blob/main/Imagenes/2022-15-11_Top_paginas.png></li><br>
 
 
 <h3>Usuarios</h3>
