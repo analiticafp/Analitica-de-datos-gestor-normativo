@@ -23,7 +23,7 @@
 <p>El departamento administrativo de la Función Pública elabora anualmente el informe de caracterización de usuarios y grupos de valor con el objetivo de identificarlos caracterizarlos y enfocar los esfuerzos de la entidad para satisfacción de estos usuarios, Sin embargo, dicho informe no permite tener claridad de los servicios y productos atendidos en la entidad dado que no se incluyen todos los insumos de los canales, además las bases de datos no muestran la trazabilidad completa de las atenciones.</p>
 
 <h2>Justificación</h2>
-<p>La caracterización de usuarios permite aportar a la toma de decisiones basada en evidencia aumentando el conocimiento y siendo insumo fundamental para el diseño o mejora de la oferta institucional, canales de atención, estrategias de comunicación, canales de atención, estrategias de rendición de cuentas, mecanismos de participación ciudadana e implementación de políticas públicas, por lo tanto, se fortalece la relación usuario – entidad al identificar necesidades, expectativas y preferencias de los usuarios interesados.</p>
+<p>A través del análisis de los reportes generados desde el Gestor Normativo, la Dirección Jurídica busca identificar acciones de mejora que permitan brindar un mejor servicio, de fácil acceso a consulta de documentos actualizados con temas jurídicos.</p>
   
  
  <h2>Marco de referencia</h2>
