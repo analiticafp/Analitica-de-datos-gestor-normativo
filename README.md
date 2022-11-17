@@ -223,8 +223,8 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
     <td>6%</td>
   </tr>
    <tr>
-    <td>Bucaramanga</td>
-    <td>2%</td>
+    <td>Cali</td>
+    <td>6%</td>
   </tr>
 </table>
 
