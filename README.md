@@ -43,14 +43,14 @@ Desde los objetivos misionales se identifican (3) grupos de valor asociados al d
 <div>
 <h2>Objetivos</h2>
 <p><b>Obetivos del Negocio</b><br>
-Identificar mejoras con el fin de posicionar el Gestor Normativo como buscador especializado en temas de función pública, para alcanzar una cobertuta y usabilidad en todo el territorio nacional.  .<br>
+Posicionar el Gestor Normativo como buscador especializado en temas de función pública, para alcanzar una cobertuta y usabilidad en todo el territorio nacional.  .<br>
 
 <b>Objetivo de la Mineria de datos:</b><br>
  <ul>
 
- <li type="circle">Realizar analisis de datos de los diferentes canales de atención que permitan identificar los grupos de valor de la entidad.</li>
-<li type="circle">Analizar el comportamiento de los canales de atención.</li>
-<li type="circle">Caracterizar los diferentes grupos de valor de la entidad.</li>
+ <li type="circle">Realizar analisis de visitas, que permitan identificar los temas más consultados e inherentes a la Función Pública.</li>
+<li type="circle">Identificar los grupos de valor más recurrentes en consultas.</li>
+<li type="circle">Asegurar la actualización de la documentación dispuesta en la herramienta para el uso de nuestros grupos de valor.</li>
     <ul>
 </p>
 </div>
@@ -163,15 +163,12 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
 <h3>Tiempo de permanencia en el sitio</h3>
 
 <h3>Porcentaje de Rebote</h3>
-<h3>72,65</h3>
-</p>El indicador de tasa de rebote indica que tan fácil es encontrar que lo que se busca en una página, en este caso una tasa de reborte alta significa que los usuarios ingresan al sitio pero lo abandonan rápidamente, ya sea porque no es fácil navegar en el sitio o no encuentran lo que se estga buscando</li><br>
+
+<h3>usuarios Nuevos</h3>
 
 <h3>Georreferenciación</h3>
-<img src=https://github.com/analiticafp/Analitica-de-datos-gestor-normativo/blob/main/Imagenes/2022-11-17_Paises.png></li><br>
-</p>De acuerdo con las metricas de google a nivel pais se evidencia que la mayoría de las visitas son de Colombia, con una participación del 96; seguido de Estados Unidos con el 0,87%</li><br>
 
-</p>De otra parte en lo que se refiere a la ciudades se evidencia que las visitas estan concentradas en la ciudada de Bogotá con un 35,56%, seguido de la ciudad de medellin con el 10,17% y en último lugar se encuentra la ciudad de pereira con un 1,18%</li><br>
-
+   
 <h2>Conclusiones</h2>
 <p> Una vez analizadas las bases de datos de los reportes generados por los canales de atención, durante el 2021 y de enero a julio de 2022, se puede concluir que:</p><br> 
    
