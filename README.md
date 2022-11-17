@@ -24,23 +24,8 @@
 
 <h2>Justificación</h2>
 <p>A través del análisis de los reportes generados desde el Gestor Normativo, la Dirección Jurídica busca identificar acciones de mejora que permitan brindar un mejor servicio, facilitando el acceso a la consulta de documentos con temas de la Función Pública tales como normas, jurisprudencia, conceptos, códigos y estatutos, entre otros.</p>
-  
- 
- <h2>Marco de referencia</h2>
-  
-  <table>
-  <tr>
-    <th>Marco contextual</th>
-  </tr>
-  <tr>
-<p>Función Pública es una entidad pública del orden nacional del nivel central, junto con la Escuela superior de administración pública -ESAP- compone el sector de función pública. A partir del decreto legislativo 2169 de 1992 recoge nuevas funciones entre las cuales se encuentran el manejo del empleo público, la capacitación de los servidores, la creación y las reformas a las plantas de personal de las entidades estatales. En la última década el Departamento asume el liderazgo del sector y se agregan nuevas funciones asociadas al direccionamiento de las políticas de relacionamiento con la ciudadanía, como la política de integridad, racionalización de tramites, participación ciudadana, servicio al ciudadano, además de la política de gestión del conocimiento y la innovación en el sector público<p>
-
-En el desarrollo de sus funciones el Departamento ha construido una planeación estratégica donde se establece que la misión de la entidad es “Fortalecer la gestión de las Entidades Públicas Nacionales y Territoriales, mejorar el desempeño de los servidores públicos al servicio del Estado, contribuir al cumplimiento de los compromisos del gobierno con el ciudadano y aumentar la confianza en la administración pública y en sus servidores.” Para dar cumplimiento a dicha misión la entidad formuló tres (3) objetivos estratégicos: enaltecer al servidor público y su labor, consolidar una gestión pública moderna, eficiente, transparente, focalizada y participativa al servicio de los ciudadanos y consolidar a Función Pública como un Departamento eficiente, técnico e innovador.<p>
-
-Desde los objetivos misionales se identifican (3) grupos de valor asociados al despliegue de los productos y servicios de la entidad, ellos son: los servidores públicos, las entidades públicas y la ciudadanía. El objetivo de este documento es presentar el proceso de caracterización de usuarios asociados a esos grupos de valor, para actualizar el portafolio de bienes y servicios de la entidad y mejorar el diseño de acciones de diálogo en el marco del proceso de rendición de cuentas<p>
- </td>
-  
-<div>
+   
+ <div>
 <h2>Objetivos</h2>
 <p><b>Obetivos del Negocio</b><br>
 Posicionar el Gestor Normativo como buscador especializado en temas de función pública, para alcanzar una cobertuta y usabilidad en todo el territorio nacional.  .<br>
@@ -160,6 +145,7 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
 
 </p>Así mismo, se puede observar que el 79,5% de los usuarios que visitan el gestor normativo son usuarios nuevos (Usuarios que ingresan por primera vez al sitio que corresponden al número de cookies nuevas que encuentra y contabiliza el sistema), mientras que el 88,6% corresponde a usuarios recurrentes</li><br>
 
+<h2>tabla edades</h2>
 </p>De los usuarios también se puede destacar los rangos de edades donde, de acuerdo con la siguiente tabla se puede ver que los principales usuarios se encuentran en el rango de 25 a 34 años con una participación del 24,57%, seguido del rango de 18 a 24 años con una participación del 20,58% y en último lugar se encuentran los usuarios mayores de 65 años en un 8,70%.</li><br>
 
 <h3>Porcentaje de Rebote</h3>
