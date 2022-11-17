@@ -142,7 +142,37 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
     <td><h3>79,57%</td></h3>
     <td><h3>88,65%</td></h3>
 </table>
-
+  <tr>
+    <th>Rangos de edad</th>
+    <th>Porcentaje</th>
+      </tr>
+        <tr>
+    <td>18 - 24</td>
+    <td>20,62%</td>
+  </tr>
+          <tr>
+    <td>25 - 34</td>
+    <td>24,56%</td>
+  </tr>
+            <tr>
+    <td>35 - 44</td>
+    <td>20,30%</td>
+  </tr>
+              <tr>
+    <td>45 - 54</td>
+    <td>14,16%</td>
+  </tr>
+                <tr>
+    <td>55 - 64</td>
+    <td>11,67%</td>
+  </tr>
+                  <tr>
+    <td>65+</td>
+    <td>8,69%</td>
+  </tr>
+<table>
+  
+</table>
 </p>Así mismo, se puede observar que el 79,5% de los usuarios que visitan el gestor normativo son usuarios nuevos (Usuarios que ingresan por primera vez al sitio que corresponden al número de cookies nuevas que encuentra y contabiliza el sistema), mientras que el 88,6% corresponde a usuarios recurrentes</li><br>
 
 <h2>tabla edades</h2>
