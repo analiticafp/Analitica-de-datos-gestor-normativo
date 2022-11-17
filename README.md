@@ -33,15 +33,15 @@ Posicionar el Gestor Normativo como buscador especializado en temas de función 
 <b>Objetivo de la Mineria de datos:</b><br>
  <ul>
 
- <li type="circle">Realizar analisis de visitas, que permitan identificar los temas más consultados e inherentes a la Función Pública.</li>
-<li type="circle">Identificar los grupos de valor más recurrentes en las consultas.</li>
+ <li type="circle">Realizar analisis de visitas, que permitan identificar los módulos más consultados y sus temas.</li>
+<li type="circle">Poder caracterizar a los usuarios que visitan el gestor normativo.</li>
 <li type="circle">Asegurar la actualización de la documentación dispuesta en la herramienta para el uso de nuestros grupos de valor.</li>
     <ul>
 </p>
 </div>
    
 <h2>Criterios de Éxito</h2>
-   <p>Desde el punto de vista de negocio, se puede considerar como criterio de éxito lograr la caracterización del 100% de las atenciones realizadas por Función Pública a los diferentes usuarios.</p>
+   <p>Desde el punto de vista de negocio, se puede considerar como criterio de éxito aumentar el número de visitas en la herramienta, asegurando la disposición de la  información actualizada y relevante, de acuerdo a las necesidades de nuestros grupos de valor.</p>
 
 <div>  
 <h2>Riesgos y contingencias</h2>
@@ -55,9 +55,9 @@ Posicionar el Gestor Normativo como buscador especializado en temas de función 
 </div>
   
 <h2>Costos y beneficios</h2>
-      <p>El desarrollo de este ejercicio de analítica de datos no genera costos para la entidad, dado que se realizará tomando como fuentes de información reportes generados por los diferentes canales de atención.<br>
+      <p>El desarrollo de este ejercicio de analítica de datos no genera costos para la entidad, dado que se realizará tomando como fuentes de información reportes generados por los diferentes canales de la entidad.<br>
       
-Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un valor agregado para la entidad al contar con información confiable, de fácil acceso, con procedimientos y metodologías reconocidas y estandarizadas que respaldan las cifras. De otra parte, se puede decir que con los resultados obtenidos se pueden contar con una caracterización más detallada de los grupos de valor, así como identificar oportunidades de mejora aplicables a la forma como se capturan los datos en los canales de atención así como a los procedimientos para el diligenciamiento de los aplicativos destinados a tal fin, qiue permitan enfocar los esfuerzos de la entidad en la atención de estos grupos.</p>
+Como beneficio se puede mencionar, la respuesta oportuna a las necesidades de nuestros grupos de interés mediante la disposición de información en línea para un uso fácil y eficiente.</p>
 
  <div>
  <h2>Productos/Entregables</h2>
