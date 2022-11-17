@@ -143,6 +143,11 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
     <td><h3>88,65%</td></h3>
 </table>
 
+</p>Así mismo, se puede observar que el 79,5% de los usuarios que visitan el gestor normativo son usuarios nuevos (Usuarios que ingresan por primera vez al sitio que corresponden al número de cookies nuevas que encuentra y contabiliza el sistema), mientras que el 88,6% corresponde a usuarios recurrentes</li><br>
+
+<h2>tabla edades</h2>
+</p>De los usuarios también se puede destacar los rangos de edades donde, de acuerdo con la siguiente tabla se puede ver que los principales usuarios se encuentran en el rango de 25 a 34 años con una participación del 24,57%, seguido del rango de 18 a 24 años con una participación del 20,58% y en último lugar se encuentran los usuarios mayores de 65 años en un 8,70%.</li><br>
+
 <table>
     <tr>
     <th>Rangos de edad</th>
@@ -173,10 +178,6 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
     <td>8,69%</td>
   </tr>
 </table>
-</p>Así mismo, se puede observar que el 79,5% de los usuarios que visitan el gestor normativo son usuarios nuevos (Usuarios que ingresan por primera vez al sitio que corresponden al número de cookies nuevas que encuentra y contabiliza el sistema), mientras que el 88,6% corresponde a usuarios recurrentes</li><br>
-
-<h2>tabla edades</h2>
-</p>De los usuarios también se puede destacar los rangos de edades donde, de acuerdo con la siguiente tabla se puede ver que los principales usuarios se encuentran en el rango de 25 a 34 años con una participación del 24,57%, seguido del rango de 18 a 24 años con una participación del 20,58% y en último lugar se encuentran los usuarios mayores de 65 años en un 8,70%.</li><br>
 
 <h3>Porcentaje de Rebote</h3>
 
