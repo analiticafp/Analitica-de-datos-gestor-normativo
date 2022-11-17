@@ -199,6 +199,8 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
 
 <img src="https://github.com/analiticafp/Analitica-de-datos-gestor-normativo/blob/f5d50baff603098c4bec57e710f912f8ab1cd520/Imagenes/2022-11-17_Imagen_mapa.png" width=600></li><br>
 
+</p>En la siguiente tablase muestra el top cinco de ciudades que tienen mayor porcentaje de usuarios, lo que confirma la acogida de las ciudades principales del territorio colombiano.</li><br>
+
 <table>
      <tr>
     <th colspan="2">Top 5 ciudades</th>
