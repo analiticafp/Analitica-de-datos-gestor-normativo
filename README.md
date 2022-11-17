@@ -33,15 +33,15 @@ Posicionar el Gestor Normativo como buscador especializado en temas de función 
 <b>Objetivo de la Mineria de datos:</b><br>
  <ul>
 
- <li type="circle">Realizar analisis de visitas, que permitan identificar los módulos más consultados y sus temas.</li>
-<li type="circle">Poder caracterizar a los usuarios que visitan el gestor normativo.</li>
-<li type="circle">Asegurar la actualización de la documentación dispuesta en la herramienta para el uso de nuestros grupos de valor.</li>
+<li type="circle">Realizar analisis de visitas, que permitan identificar los módulos más consultados y sus temas.</li>
+<li type="circle">Caracterizar a los usuarios que visitan el gestor normativo.</li>
+<li type="circle">Medir la satisfacción con sitio de nuestros grupos de valor.</li>
     <ul>
 </p>
 </div>
    
 <h2>Criterios de Éxito</h2>
-   <p>Desde el punto de vista de negocio, se puede considerar como criterio de éxito aumentar el número de visitas en la herramienta, asegurando la disposición de la  información actualizada y relevante, de acuerdo a las necesidades de nuestros grupos de valor.</p>
+<p>Desde el punto de vista de negocio, se puede considerar como criterio de éxito aumentar el número de visitas en la herramienta, asegurando la disposición de la  información actualizada y relevante, de forma organzida en un sitio de fácil acceso y consulta, de acuerdo a las necesidades de nuestros grupos de valor.</p>
 
 <div>  
 <h2>Riesgos y contingencias</h2>
@@ -98,7 +98,7 @@ Como beneficio se puede mencionar, la disminución de tiempos en la respuesta a 
 
 <h3>Páginas visitadas</h3>
 
-</p>En cuanto a las páginas visitadas en total se evidencian 24.007.813, lo que equivale a que los usuarios en sus vistas en promedio visitan 2 páginas del sitio en cada visita, lo anterior coincide con el objetivo del gestor normativo, donde los usuarios ingresan y consultan una norma específica.</li><br>
+</p>En cuanto a las páginas visitadas en total se evidencian 24.007.813, lo que equivale a que los usuarios en sus vistas en promedio visitan 2 páginas del sitio en cada visita.</li><br>
 
 </p>Así mismo para ese periodo de tiempo se evidencia que las páginas más consultadas corresponden a manual de estructura del Estado, de acuerdo con la siguiente gráfica.</li><br>
 
@@ -143,7 +143,6 @@ Como beneficio se puede mencionar, la disminución de tiempos en la respuesta a 
 
 </p>Así mismo, se puede observar que el 79,5% de los usuarios que visitan el gestor normativo son usuarios nuevos (Usuarios que ingresan por primera vez al sitio que corresponden al número de cookies nuevas que encuentra y contabiliza el sistema), mientras que el 88,6% corresponde a usuarios recurrentes</li><br>
 
-<h2>tabla edades</h2>
 </p>De los usuarios también se puede destacar los rangos de edades donde, de acuerdo con la siguiente tabla se puede ver que los principales usuarios se encuentran en el rango de 25 a 34 años con una participación del 24,57%, seguido del rango de 18 a 24 años con una participación del 20,58% y en último lugar se encuentran los usuarios mayores de 65 años en un 8,70%.</li><br>
 
 <table>
@@ -189,9 +188,6 @@ Como beneficio se puede mencionar, la disminución de tiempos en la respuesta a 
 <div>   
 <img src=https://github.com/analiticafp/Analitica-de-datos-gestor-normativo/blob/main/Imagenes/2022-11-17_Paises.png></li><br>
 </p>En lo que se refiere a la ubicación de los usuarios hablando a nivel país se evidencia que en su mayoría las visitas se realizan en Colombia con una participación del 96,6%, seguido de estados unidos con el 0,87% y en último lugar se encuentra Ecuador con el 0,14%</li><br>
-
-   
-<h2>tabla ciudades</h2>
 
 </p>De igual forma en la distribución por ciudades se observa que la ciudad con mayor representación es Bogotá con el 35,56% seguido de Medellín con el 10,17% y en último lugar se encuentra la ciudad de Pereira con el 1,18%.</li><br>
 
@@ -241,13 +237,20 @@ Como beneficio se puede mencionar, la disminución de tiempos en la respuesta a 
   
 <li type="circle">Las búsquedas por navegadores es el mecanismo mas usado para acceder al gestor normativo con más del 90%.</li><br>
 
+<li type="circle">El Gestor Normativo es uno de los micrositios que más visitas tienen en la página web de la entidad se evidencia que tiene una tasa de reborte muy alta y la cantidad de páginas que visita un usuario por sesión es mínima lo que podría indicar que no se encuentra lo que estan buscando o es díficil navegar en el sitio </li><br>
+
 
 </ul>
- <h2>Recomendaciones</h2>
- <p>Desde la Oficina Asesora de Planeación y el equipo de trabajo que desarrollo este ejercicio se sugiere lo siguiente:</p>
+<h2>Recomendaciones</h2>
+ 
+<p>Desde la Oficina Asesora de Planeación y el equipo de trabajo que desarrollo este ejercicio se sugiere lo siguiente:</p>
   
 <li type="circle">Generar estrategias para que los adultos mayores conozcan y accedan al sitio web.</li><br> 
   
 <li type="circle">Generar estrategias de difusión y divulgación en territorio.</li><br> 
+
+<li type="circle">Aplicar encuestas de satisfacción con en fin de identificar que tan complejo es la navegación en sitio y así disminuir el porcentace de rebote</li><br>
+
+<li type="circle">En la sección ayudamos a mejorar incluir preguntas relacionadas con la búsqueda y que estos resultados se puedan consolidar en una base de datos que facilite analísis posteriores</li><br>
   
 
