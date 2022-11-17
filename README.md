@@ -23,7 +23,7 @@
 <p>El departamento administrativo de la Función Pública elabora anualmente el informe de caracterización de usuarios y grupos de valor con el objetivo de identificarlos caracterizarlos y enfocar los esfuerzos de la entidad para satisfacción de estos usuarios, Sin embargo, dicho informe no permite tener claridad de los servicios y productos atendidos en la entidad dado que no se incluyen todos los insumos de los canales, además las bases de datos no muestran la trazabilidad completa de las atenciones.</p>
 
 <h2>Justificación</h2>
-<p>A través del análisis de los reportes generados desde el Gestor Normativo, la Dirección Jurídica busca identificar acciones de mejora que permitan brindar un mejor servicio, facilitando el acceso a la consulta de documentos con temas jurídicos.</p>
+<p>A través del análisis de los reportes generados desde el Gestor Normativo, la Dirección Jurídica busca identificar acciones de mejora que permitan brindar un mejor servicio, facilitando el acceso a la consulta de documentos con temas de la Función Pública tales como normas, jurisprudencia, conceptos, códigos y estatutos, entre otros.</p>
   
  
  <h2>Marco de referencia</h2>
