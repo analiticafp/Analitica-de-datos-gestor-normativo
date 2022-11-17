@@ -172,7 +172,7 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
 <h3>Georreferenciación</h3>
 
 <div>   
-<img src=></li><br>
+<img src=https://github.com/analiticafp/Analitica-de-datos-gestor-normativo/blob/main/Imagenes/2022-11-17_Paises.png></li><br>
 </p>En lo que se refiere a la ubicación de los usuarios hablando a nivel país se evidencia que en su mayoría las visitas se realizan en Colombia con una participación del 96,6%, seguido de estados unidos con el 0,87% y en último lugar se encuentra Ecuador con el 0,14%</li><br>
 
    
