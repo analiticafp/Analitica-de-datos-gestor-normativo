@@ -42,8 +42,8 @@ Desde los objetivos misionales se identifican (3) grupos de valor asociados al d
   
 <div>
 <h2>Objetivos</h2>
-<p><b>Obejtivos del Negocio</b><br>
-Identificar las características, intereses y necesidades de los usuarios de los servicios y productos del Departamento Administrativo de la Función Pública para actualizar el portafolio de bienes y servicios de la entidad y mejorar el diseño de acciones de diálogo en el marco del proceso de rendición de cuentas.<br>
+<p><b>Obetivos del Negocio</b><br>
+Identificar mejoras con el fin de posicionar el Gestor Normativo como buscador especializado en temas de función pública, para alcanzar una cobertuta y usabilidad en todo el territorio nacional.  .<br>
 
 <b>Objetivo de la Mineria de datos:</b><br>
  <ul>
