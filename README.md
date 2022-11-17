@@ -197,6 +197,38 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
 
 </p>De igual forma en la distribución por ciudades se observa que la ciudad con mayor representación es Bogotá con el 35,56% seguido de Medellín con el 10,17% y en último lugar se encuentra la ciudad de Pereira con el 1,18%.</li><br>
 
+<table>
+     <tr>
+    <th colspan="2">Top 5 ciudades</th>
+  </tr>
+    <tr>
+    <th>Ciudad</th>
+    <th>Porcentaje</th>
+      </tr>
+        <tr>
+    <td>Bogotá</td>
+    <td>36%</td>
+  </tr>
+          <tr>
+    <td>Medellin</td>
+    <td>10%</td>
+  </tr>
+                    <tr>
+    <td>No disponible</td>
+    <td>7%</td>
+  </tr>
+  
+            <tr>
+    <td>Barranquilla</td>
+    <td>6%</td>
+  </tr>
+              <tr>
+    <td>Bucaramanga</td>
+    <td>2%</td>
+  </tr>
+
+</table>
+
    
 <h2>Conclusiones</h2>
 <p> Una vez analizadas las bases de datos de los reportes generados por los canales de atención, durante el 2021 y de enero a julio de 2022, se puede concluir que:</p><br> 
