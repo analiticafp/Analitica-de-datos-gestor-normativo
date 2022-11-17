@@ -197,6 +197,8 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
 
 </p>De igual forma en la distribución por ciudades se observa que la ciudad con mayor representación es Bogotá con el 35,56% seguido de Medellín con el 10,17% y en último lugar se encuentra la ciudad de Pereira con el 1,18%.</li><br>
 
+<img src=https://github.com/analiticafp/Analitica-de-datos-gestor-normativo/blob/main/Imagenes/2022-15-11_Visitas.png></li><br>
+
 <table>
      <tr>
     <th colspan="2">Top 5 ciudades</th>
