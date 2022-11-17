@@ -213,20 +213,19 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
     <td>Medellin</td>
     <td>10%</td>
   </tr>
-                    <tr>
+   <tr>
     <td>No disponible</td>
     <td>7%</td>
   </tr>
   
-            <tr>
+   <tr>
     <td>Barranquilla</td>
     <td>6%</td>
   </tr>
-              <tr>
+   <tr>
     <td>Bucaramanga</td>
     <td>2%</td>
   </tr>
-
 </table>
 
    
