@@ -49,7 +49,7 @@ Posicionar el Gestor Normativo como buscador especializado en temas de función 
  <ul>
 
  <li type="circle">Realizar analisis de visitas, que permitan identificar los temas más consultados e inherentes a la Función Pública.</li>
-<li type="circle">Identificar los grupos de valor más recurrentes en consultas.</li>
+<li type="circle">Identificar los grupos de valor más recurrentes en las consultas.</li>
 <li type="circle">Asegurar la actualización de la documentación dispuesta en la herramienta para el uso de nuestros grupos de valor.</li>
     <ul>
 </p>
