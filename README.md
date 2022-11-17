@@ -170,6 +170,8 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
 <img src=https://github.com/analiticafp/Analitica-de-datos-gestor-normativo/blob/main/Imagenes/2022-11-17_Paises.png></li><br>
 </p>De acuerdo con las metricas de google a nivel pais se evidencia que la mayoría de las visitas son de Colombia, con una participación del 96; seguido de Estados Unidos con el 0,87%</li><br>
 
+</p>De otra parte en lo que se refiere a la ciudades se evidencia que las visitas estan concentradas en la ciudada de Bogotá con un 35,56%, seguido de la ciudad de medellin con el 10,17% y en último lugar se encuentra la ciudad de pereira con un 1,18%</li><br>
+
 <h2>Conclusiones</h2>
 <p> Una vez analizadas las bases de datos de los reportes generados por los canales de atención, durante el 2021 y de enero a julio de 2022, se puede concluir que:</p><br> 
    
