@@ -20,7 +20,7 @@
 </ul>
  
 <h2>Problema</h2>
-<p>El departamento administrativo de la Función Pública elabora anualmente el informe de caracterización de usuarios y grupos de valor con el objetivo de identificarlos caracterizarlos y enfocar los esfuerzos de la entidad para satisfacción de estos usuarios, Sin embargo, dicho informe no permite tener claridad de los servicios y productos atendidos en la entidad dado que no se incluyen todos los insumos de los canales, además las bases de datos no muestran la trazabilidad completa de las atenciones.</p>
+<p>El departamento administrativo de la Función Pública genera conceptos e incorpora normativa de acuerdo a las necesidades de los grupos de valor, sin embargo, no cuenta con una identificación de los tipos de usuarios que solicitan o cunsultan la información, ya sean entidades, ciudadanos, servidores, contratistas, entre otros,  lo cual no permite generar informes con cifras relevantes para la toma de decisiones, y la generación de acciones para la mejora continua de la herramienta.</p>
 
 <h2>Justificación</h2>
 <p>De acuerdo al aumento en el número de consultas y a la emisión de conceptos de la entidad, la Dirección Jurídica busca identificar acciones de mejora que permitan brindar un mejor servicio, facilitando el acceso a la consulta de información relevante en temas de la Función Pública tales como normas, jurisprudencia, conceptos, códigos y estatutos, entre otros.</p>
@@ -55,7 +55,7 @@ Posicionar el Gestor Normativo como buscador especializado en temas de función 
 <h2>Costos y beneficios</h2>
       <p>El desarrollo de este ejercicio de analítica de datos no genera costos para la entidad, dado que se realizará tomando como fuentes de información reportes generados por los diferentes canales de la entidad.<br>
       
-Como beneficio se puede mencionar, la respuesta oportuna a las necesidades de nuestros grupos de interés mediante la disposición de información en línea para un uso fácil y eficiente.</p>
+Como beneficio se puede mencionar, la disminución de tiempos en la respuesta a inquietudes y en la consulta de información en temas normativos, mediante la disposición de documentos de fácil uso en la herramienta.</p>
 
  <div>
  <h2>Productos/Entregables</h2>
