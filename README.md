@@ -163,8 +163,8 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
 <h3>Tiempo de permanencia en el sitio</h3>
 
 <h3>Porcentaje de Rebote</h3>
-
-<h3>usuarios Nuevos</h3>
+<h3>72,65</h3>
+</p>El indicador de tasa de rebote indica que tan fácil es encontrar que lo que se busca en una página, en este caso una tasa de reborte alta significa que los usuarios ingresan al sitio pero lo abandonan rápidamente, ya sea porque no es fácil navegar en el sitio o no encuentran lo que se estga buscando</li><br>
 
 <h3>Georreferenciación</h3>
 <img src=https://github.com/analiticafp/Analitica-de-datos-gestor-normativo/blob/main/Imagenes/2022-11-17_Paises.png></li><br>
