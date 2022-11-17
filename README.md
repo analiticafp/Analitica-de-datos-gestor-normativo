@@ -20,7 +20,7 @@
 </ul>
  
 <h2>Problema</h2>
-<p>El departamento administrativo de la Función Pública genera conceptos e incorpora normativa de acuerdo a las necesidades de los grupos de valor, sin embargo, no cuenta con una identificación de los tipos de usuarios que solicitan o cunsultan la información, ya sean entidades, ciudadanos, servidores, contratistas, entre otros,  lo cual no permite generar informes con cifras relevantes para la toma de decisiones, y la generación de acciones para la mejora continua de la herramienta.</p>
+<p>El departamento administrativo de la Función Pública genera conceptos e incorpora normativa de acuerdo a las necesidades de los grupos de valor, sin embargo, no cuenta con una identificación de los tipos de usuarios que solicitan o cunsultan la información, ya sean entidades, ciudadanos, servidores, contratistas, entre otros,  lo cual no permite tener un panorama más amplio para generar informes con cifras relevantes para la toma de decisiones.</p>
 
 <h2>Justificación</h2>
 <p>De acuerdo al aumento en el número de consultas y a la emisión de conceptos de la entidad, la Dirección Jurídica busca identificar acciones de mejora que permitan brindar un mejor servicio, facilitando el acceso a la consulta de información relevante en temas de la Función Pública tales como normas, jurisprudencia, conceptos, códigos y estatutos, entre otros.</p>
