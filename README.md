@@ -48,8 +48,6 @@ Posicionar el Gestor Normativo como buscador especializado en temas de función 
    <p>  
     <ul>
 <li type="circle">Información Incompleta, falta de información de los usuarios que consultan.</li>
-<li type="circle">Errores de diligenciamiento.</li>
-<li type="circle">Campos no paremetrizados en los canales.</li>
     <ul>  
    </p>
 </div>
