@@ -167,8 +167,9 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
 <h3>usuarios Nuevos</h3>
 
 <h3>Georreferenciación</h3>
+<img src=https://github.com/analiticafp/Analitica-de-datos-gestor-normativo/blob/main/Imagenes/2022-11-17_Paises.png></li><br>
+</p>De acuerdo con las metricas de google a nivel pais se evidencia que la mayoría de las visitas son de Colombia, con una participación del 96; seguido de Estados Unidos con el 0,87%</li><br>
 
-   
 <h2>Conclusiones</h2>
 <p> Una vez analizadas las bases de datos de los reportes generados por los canales de atención, durante el 2021 y de enero a julio de 2022, se puede concluir que:</p><br> 
    
