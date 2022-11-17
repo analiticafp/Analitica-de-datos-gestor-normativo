@@ -1,6 +1,6 @@
 <div class="row">
   <div class="column"><img src="https://github.com/analiticafp/Caracterizaci-n-grupos-de-valor-DAPF/blob/8df078b958299e29ebe2835f22e23ca835848781/imaganes/2022-08-30_Logo_fp.jpg" align="left" alt="Función Pública"></div>
-  <div class="column" align="center"><div><b>Documentación proyecto analítica V.1</b><br>Ultima actualización: Agosto de 2022</div>
+  <div class="column" align="center"><div><b>Documentación proyecto analítica V.1</b><br>Ultima actualización: Noviembre de 2022</div>
 </div>
 
 <br>
@@ -162,13 +162,23 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
 
 </p>De los usuarios también se puede destacar los rangos de edades donde, de acuerdo con la siguiente tabla se puede ver que los principales usuarios se encuentran en el rango de 25 a 34 años con una participación del 24,57%, seguido del rango de 18 a 24 años con una participación del 20,58% y en último lugar se encuentran los usuarios mayores de 65 años en un 8,70%.</li><br>
 
-<h3>Tiempo de permanencia en el sitio</h3>
-
 <h3>Porcentaje de Rebote</h3>
 
-<h3>usuarios Nuevos</h3>
+<h3>72,65%</h3>
+
+</p>El indicador de tasa de rebote es el porcentaje de visitantes que acceden a un sitio y salen sin acceder a nuevas páginas o interactuar con tu contenido, haciendo apenas una visualización de página. Para este caso el indicador se encuentra en el 72.65% lo que nos indica que los usuarios no están navegando en el sitio web sino solo se están quedando en una página ya sea porque no encuentran lo que están buscando o navegar en el sitio puede ser complicado.</li><br>
+</p>Este indicado es coincidente con el de páginas visitadas por usuario que para este caso fue de en promedio 2 páginas por visita.</li><br>
 
 <h3>Georreferenciación</h3>
+
+<div>   
+<img src=></li><br>
+</p>En lo que se refiere a la ubicación de los usuarios hablando a nivel país se evidencia que en su mayoría las visitas se realizan en Colombia con una participación del 96,6%, seguido de estados unidos con el 0,87% y en último lugar se encuentra Ecuador con el 0,14%</li><br>
+
+   
+<h2>tabla ciudades</h2>
+
+</p>De igual forma en la distribución por ciudades se observa que la ciudad con mayor representación es Bogotá con el 35,56% seguido de Medellín con el 10,17% y en último lugar se encuentra la ciudad de Pereira con el 1,18%.</li><br>
 
    
 <h2>Conclusiones</h2>
