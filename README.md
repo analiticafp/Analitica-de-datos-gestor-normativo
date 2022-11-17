@@ -234,36 +234,22 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
 
    
 <h2>Conclusiones</h2>
-<p> Una vez analizadas las bases de datos de los reportes generados por los canales de atención, durante el 2021 y de enero a julio de 2022, se puede concluir que:</p><br> 
+<p> Las cifras que se tratan en este proyecto corresponden a las recolectadas por Google Analytics para el periodo del primero de enero al treinta de octubre del presente año, teniendo presente lo anterior se presentan los siguientes hallazgos en la información. </p><br> 
    
-<li type="circle">Bogotá cuenta con el porcentaje de interacciones más altos con nuestra entidad </li>
+<li type="circle">Las ciudades principales tienen mayor interacción con el gestor normativo donde Bogotá tiene un 36% de participación.</li>
  <br>  
  
-<li type="circle">El Canal de atención que más registra interacciones es el de cursos eva donde la participación más alta es de curso de integridad, seguido del canal escrito </li><br>
+<li type="circle">Los usuarios de 18 a 34 años tienen una participación de mas del 40% del total, la población mayor de 65 años tiene la participación mas baja de un 8,6%.</li><br>
   
-<li type="circle">El mayor porcetanje de interacciones la realizan servidores públicos o contratistas</li><br>
-
-<li type="circle">El árbol de temas es muy amplio y no facilita la asociación con el portafolio de servicios de la entidad </li><br>
+<li type="circle">Las búsquedas por navegadores es el mecanismo mas usado para acceder al gestor normativo con más del 90%.</li><br>
 
 
 </ul>
  <h2>Recomendaciones</h2>
  <p>Desde la Oficina Asesora de Planeación y el equipo de trabajo que desarrollo este ejercicio se sugiere lo siguiente:</p>
   
-<li type="circle">Tipificar de manera obligatoria para todos los canales de atención el número de cédula, la pertenencia a un grupo de interés, grupo étnico y discapacidad.</li><br> 
+<li type="circle">Generar estrategias para que los adultos mayores conozcan y accedan al sitio web.</li><br> 
   
-<li type="circle">Estandarizar los grupos de interés, pertenencia étnica y discapacidad en los canales de atención.</li><br> 
+<li type="circle">Generar estrategias de difusión y divulgación en territorio.</li><br> 
   
-<li type="circle">Estandarizar y alinear al portafolio de servicios los temas en los canales</li><br> 
-  
-<li type="circle">Establecer hasta que nivel se puede hacer desagregación de temas y subtemas, así como su estandarización en todos los canales.</li><br> 
 
-<li type="circle">Interoperar el módulo de entidades con los canales, para que solo sea seleccionar la entidad y no permitir que se pueda escribir cualquier dato.</li><br>
-
-<li type="circle">Crear una columna de tipo de identificación que facilite la validación del grupo de valor (Ejm: sigep; Cédula, nit, etc), lo anterior debido a que en la columna de nombre del usuario para algunos canales se encuentran nombres de entidades, números de cédula, nombre de personas, correos, etc, lo que dificulta la identificación del tipo de usuario.</li><br>
-
-<li type="circle">Potencializar el CRM como herramienta para consolidar y analizar todas las interacciones con los grupos de valor y que permita contar una trazabilidad de las atenciones históricas.</li><br>
-
-<li type="circle">Crear reportes que permitan hacer seguimiento y monitoreo a todas la interacciones, con el fin de identificar los grupos de valor y mejorar nuestra oferta institucional enfocada a la satisfacción de necesidades de dichos grupos.</li><br>
-
-<li type="circle">Incluir la DIVIPOLA del DANE en los canales de atención que facilite la georreferenciación de los usuarios.</li><br>
