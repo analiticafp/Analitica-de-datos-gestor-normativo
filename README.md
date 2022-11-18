@@ -181,7 +181,13 @@ Como beneficio se puede mencionar, la disminución de tiempos en la respuesta a 
 <h3>72,65%</h3>
 
 </p>El indicador de tasa de rebote es el porcentaje de visitantes que acceden a un sitio y salen sin acceder a nuevas páginas o interactuar con tu contenido, haciendo apenas una visualización de página. Para este caso el indicador se encuentra en el 72.65% lo que nos indica que los usuarios no están navegando en el sitio web sino solo se están quedando en una página ya sea porque no encuentran lo que están buscando o navegar en el sitio puede ser complicado.</li><br>
-</p>Este indicado es coincidente con el de páginas visitadas por usuario que para este caso fue de en promedio 2 páginas por visita.</li><br>
+</p>Este indicador es coincidente con el de páginas visitadas por usuario que para este caso fue de en promedio 2 páginas por visita.</li><br>
+
+<h3>Tiempo de permanencia en la página</h3>
+<h3> 13 Minutos</h3>
+
+</p>Este indicador nos muestra el tiempo promedio de permanencia en la página que para este caso es alto, teniendo en cuenta los demás indicadores.</li><br>
+
 
 <h3>Georreferenciación</h3>
 
@@ -235,7 +241,7 @@ Como beneficio se puede mencionar, la disminución de tiempos en la respuesta a 
  
 <li type="circle">Los usuarios de 18 a 34 años tienen una participación de mas del 40% del total, la población mayor de 65 años tiene la participación mas baja de un 8,6%.</li><br>
   
-<li type="circle">Las búsquedas por navegadores es el mecanismo mas usado para acceder al gestor normativo con más del 90%.</li><br>
+<li type="circle">Las búsquedas por navegadores es el mecanismo mas usado para acceder al gestor normativo con más del 90%, que nos indican que los usuarios realizan la búsqueda de la normatividad a consultar desde el buscador y nos desde el sitio de Funcióm Pública</li><br>
 
 <li type="circle">El Gestor Normativo es uno de los micrositios que más visitas tienen en la página web de la entidad se evidencia que tiene una tasa de reborte muy alta y la cantidad de páginas que visita un usuario por sesión es mínima lo que podría indicar que no se encuentra lo que estan buscando o es díficil navegar en el sitio </li><br>
 
